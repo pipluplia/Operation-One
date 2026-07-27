@@ -1,0 +1,1219 @@
+{
+    "Sounds":{
+        "Primaries": {
+            "Assault Rifles": {
+                "AK-12": {
+                    "Shot": "801128774",
+                    "Silenced Shot": "97429631492906"
+                },
+                "M4": {
+                    "Shot": "8169240213",
+                    "Silenced Shot": [
+                        "8408312836",
+                        "5707240744"
+                    ]
+                },
+                "AUG": {
+                    "Shot": "1112749769",
+                    "Silenced Shot": "373490855"
+                },
+                "L85A2": {
+                    "Shot": [
+                        "123550646712503",
+                        "801221795"
+                    ],
+                    "Silenced Shot": "801160615"
+                },
+                "Famas": {
+                    "Shot": [
+                        "241319112",
+                        "165946283"
+                    ],
+                    "Silenced Shot": "5707240744"
+                },
+                "SCAR-H": {
+                    "Shot": "108346912683295",
+                    "Silenced Shot": "103400838482361"
+                },
+                "M16": {
+                    "Shot": "18521643711",
+                    "Silenced Shot": "106120944884263"
+                },
+                "G36": {
+                    "Shot": "799950371",
+                    "Silenced Shot": "106922408111402"
+                }
+            },
+            "Submachine Guns": {
+                "Vector": {
+                    "Shot": [
+                        "124464431464351",
+                        "2400415519"
+                    ],
+                    "Silenced Shot": "5466672501"
+                },
+                "MP5": {
+                    "Shot": [
+                        "18458905468",
+                        "2400415519"
+                    ],
+                    "Silenced Shot": "800028113"
+                },
+                "P90": {
+                    "Shot": [
+                        "801170812",
+                        "84058253597846"
+                    ],
+                    "Silenced Shot": "7329948028"
+                },
+                "MP7": {
+                    "Shot": "109042057366329",
+                    "Silenced Shot": [
+                        "134072837250992",
+                        "118751091362273"
+                    ]
+                }
+            },
+            "Shotguns": {
+                "SPAS-12": {
+                    "Shot": "6506822198"
+                },
+                "AA-12": {
+                    "Shot": "241338137"
+                },
+                "M590": {
+                    "Shot": [
+                        "5674894114",
+                        "5845958291",
+                        "190053729"
+                    ],
+                    "Silenced Shot": "80172471828147"
+                },
+                "CAL12": {
+                    "Shot": "802464084",
+                    "Silenced Shot": "80172471828147"
+                }
+            },
+            "Sniper Rifles": {
+                "AW50": {
+                    "Shot": "72459192718155",
+                    "Silenced Shot": "7026894069"
+                },
+                "M24": {
+                    "Shot": "81230336657104",
+                    "Silenced Shot": "7026894069"
+                },
+                "Harrow M82": {
+                    "Shot": "121180179013885",
+                    "Silenced Shot": "154619598"
+                }
+            },
+            "Marksman Rifles": {
+                "M14": {
+                    "Shot": "1453748271",
+                    "Silenced Shot": [
+                        "8408312836",
+                        "5707240744"
+                    ]
+                },
+                "L1A1": {
+                    "Shot": "82303053134827",
+                    "Silenced Shot": "154619598"
+                }
+            },
+            "LMGs": {
+                "M249": {
+                    "Shot": "2640151961"
+                },
+                "M60": {
+                    "Shot": "165946448"
+                }
+            },
+            "Launchers": {
+                "HK69": {
+                    "Shot": "118116663430743"
+                },
+                "M-32": {
+                    "Shot": "73927669453998"
+                }
+            }
+        },
+
+        "Secondaries": {
+            "Pistols": {
+                "Beretta": {
+                    "Shot": "7850652207"
+                },
+                "Colt": {
+                    "Shot": "799960407"
+                },
+                "G7": {},
+                "Deagle": {
+                    "Shot": "5845956302",
+                    "Silenced Shot": "124763531446154"
+                },
+                "FN-57": {
+                    "Shot": "2903561024"
+                },
+                "PT24": {
+                    "Shot": "2757012511",
+                    "Silenced Shot": "4527562401"
+                }
+            },
+            "Revolvers": {
+                "Anaconda": {
+                    "Shot": [
+                        "8381411404",
+                        "18918494387"
+                    ]
+                },
+                "T-Judge": {
+                    "Shot": [
+                        "1453744839",
+                        "18918494387"
+                    ]
+                },
+                "RSh-12": {
+                    "Shot": [
+                        "7038201779",
+                        "7521476935"
+                    ]
+                },
+                "Reaper": {
+                    "Shot": "6322588515"
+                }
+            },
+            "Machine Pistols": {
+                "CZ75": {
+                    "Shot": "9205598207",
+                    "Silenced Shot": "115596024250324"
+                },
+                "Skorpion": {
+                    "Shot": "5948204445",
+                    "Silenced Shot": "98000260661067"
+                },
+                "Mac-11": {
+                    "Shot": "98818186018417",
+                    "Silenced Shot": "138440041610306"
+                }
+            },
+            "Shotguns": {
+                "Super Shorty": {
+                    "Shot": "5845958291"
+                }
+            }
+        },
+
+        "Shields": {
+            "Riot Shield": {},
+            "Ballistic Shield": {}
+        }
+    },
+    "Kill Sound":"110721696285905",
+    "Utility":{
+        "Placeable":{
+            "Barbed Wire Rustle":"5127550279",
+            "Breach Charge Place":"9118733805",
+            "Bulletproof Camera Drill":"9114242638",
+            "Claymore":{
+                "Armed":"134269326087379",
+                "Explode":"101767123218902"
+            },
+            "Defuser":{
+                "Keyboard":"9116154956",
+                "Open":"87492234898658",
+                "Screen On":"98064327855423"
+            },
+            "Deployable Shield":{
+                "Equip":"9116260154",
+                "Place":"93157546246483",
+                "Detract":"9113449851",
+                "Hits":[7842409616, 9116796332, 9116887596]
+            },
+            "Hard Breach Charge":{
+                "Fuse":"80005773714295",
+                "Explosion":"101767123218902"
+            },
+            "Incendiary Canister":{
+                "Place":"9116774591",
+                "Jug":"9117646168",
+                "Explode":"2555283290"
+            },
+            "Shock Battery":{
+                "Click":"104551618329515",
+                "Zapping":""
+            },
+            "Signal Disruptor":{
+                "Click":"104551618329515",
+                "Armed":"74311878925873"
+            },
+            "Thermite Charge":{
+                "Place":"9118733805",
+                "Fuse":"80005773714295",
+                "Beep":"9118777437"
+            }
+        },
+        "Throwable":{
+            "Grenades":{
+                "Equip":"9114659833",
+                "Pull Pin":"8186569638",
+                "Throw":"17896926514",
+                "Explosion":"101767123218902",
+                "EMP Explode":"335657174",
+                "Incendiary Explode": "2555283290",
+                "Smoke Explode":"132188255620885",
+                "Flashbang Explode":"7129285090"
+            },
+            "Drone":{
+                "On":"9125838810",
+                "Moving":"102662369520445",
+                "Jump":"9118935896",
+                "Hit":[9118393590, 9118270350],
+                "Electrified":"9116276288"
+            },
+            "VEIL9":{
+                "Equip":"9114659833"
+            }
+        },
+        "Adrenal Surge":{
+            "Hit":"2782131222",
+            "Surge":"1846131473"
+        },
+        "Barricade":{
+            "Lattice":"9120924411",
+            "Place":"8542225504",
+            "Punch":"9120798159",
+            "Rustling":"9117660383"
+        },
+        "Blowtorch":{
+            "Equip":"116507113186443",
+            "Fire":"14417806424",
+            "Lighter":"1773984066"
+        },
+        "Breaching Hammer":{
+            "Equip":"8022960947",
+            "Swing":"6776044661",
+            "Hit":"9118617342"
+        },
+        "Crowbar":{
+            "Equip":"8022960947",
+            "Creak":"9116554062",
+            "Hit":"9114007689"
+        },
+        "Hack":{
+            "Complete":"8828232582"
+        },
+        "Defuser Disabler":{
+            "ShortCircuit1":"6851589701",
+            "ShortCircuit2":"6851590204",
+            "ShortCircuit3":"6851589964"
+        },
+        "Detonator":{
+            "Equip":"9114659833",
+            "Detonate":"7884774051"
+        },
+        "Electronic Scanner":{
+            "Equip":"9114489283",
+            "Scan":"9126076151"
+        },
+        "Grappling Hook":{
+            "Equip":"9114659833",
+            "Rope":"2863819269",
+            "Rope Descent":"9118721971",
+            "Zip":[9121004324, 9113260462]
+        },
+        "Metal Barricade":{
+            "Lattice":"9118297353",
+            "Place":"9118297353",
+            "Punch":"9116673678",
+            "Rustling":"9119068636"
+        },
+        "Military Knife":{
+            "Equip1":"9116197039",
+            "Equip2":"18879162823",
+            "Equip3":"166083595",
+            "Hit":"9120483186",
+            "Swing":"4059009185"
+        },
+        "Reinforce Item":{
+            "Gears":"9116908667",
+            "Lattice":"9119068642",
+            "Place":"5930776732",
+            "Punch":"9120798159",
+            "Rustling":"9117660383"
+        },
+        "Stalker Belt":{
+            "Stealth":"74593175411900"
+        },
+        "Thermal Vision":{
+            "Activate":"376178316"
+        }
+    },
+    "Skin Images":{
+        "Purchasable":{
+            "Golden":"5745090765",
+            "Diamond":"73349938986704",
+            "Dark Ice":"9920555943"
+        },
+        "Alpha Case":{
+            "Forest Camo":"12229455447",
+            "Snow Camo":"18112615921",
+            "Desert Camo":"131866392464330",
+            "Wood Finish":"9920625290",
+            "Skulls":"18150404394",
+            "French Sticker":"118490712146808",
+            "Deep Red":"1619172543",
+            "Oil Spill":"125395788551107",
+            "Hazard":"138655364207101",
+            "Carbon Fiber":"4544954463",
+            "Ghillie":"13611305527"
+        },
+        "Beta Crate":{
+            "Dark Red Camo":"142656364",
+            "Black Camo":"33377960",
+            "Fade":"108206895077254",
+            "Classic AA12":"14867401787",
+            "Cracked Earth":"125199789983035",
+            "Checkered":"82283283337058",
+            "Hazard MP7 (radioactive icon only)":"7441725357",
+            "Makeshift Suppressor Cracks":"4213403554",
+            "Wood Finish":"9920625290",
+            "Medieval Shield Wood":"9920625290",
+            "Rusty Con":"52619399",
+            "Toxic":"125395788551107",
+            "Hot Red":"136046512635441",
+            "Wasteland":"1610456739"
+        },
+        "Gamma Crate":{
+            "Blue Flowers":"2669625987",
+            "Tiger Camo":"546728018",
+            "Red Roses":"5676046634",
+            "Synthwave":"7182721121",
+            "Classic L85":"14867401787",
+            "Toy Gun":"18878365966",
+            "Tidal Wave":"7951983898",
+            "Wood Finish":"9920625290",
+            "Royal":"15271080958",
+            "Red Line":"7793135243"
+        }
+    },
+    "Skybox": {
+        "Bk": "18703245834",
+        "Dn": "18703243349",
+        "Ft": "18703240532",
+        "Lf": "18703237556",
+        "Rt": "18703235430",
+        "Up": "18703232671"
+    },
+    "Misc Sounds (credit: 7lin)": {
+        "Radio": {
+        "1": "1841116989",
+        "2": "1840899246",
+        "3": "1839465902"
+        },
+        "Scary Death Sound": {
+        "1": "1837833690",
+        "2": "1837834929",
+        "3": "1837833848"
+        },
+        "Songs": {
+        "Dark Desire": "1837835644",
+        "Dark Scrapings Pad": "1837835523",
+        "Hidden Evil Thoughts": "1837835575",
+        "Scanning Dark Horizons": "1837835367",
+        "Wasteland": "1837835407"
+        },
+        "Swipe Transitions": {
+        "Boom Swipe 1": "1837834026",
+        "Boom Swipe 3": "1837834051",
+        "Boom Swipe 9": "1837834122",
+        "Hit Swipe 4": "1837834156",
+        "Light Swipe 4": "1837834222"
+        },
+        "Bomb Stuff": {
+        "Bomb Tick": "9113935869",
+        "Bomb Wind Up": "1841309521"
+        },
+        "Environment Breaking Stuff": {
+        "Bulb Break": "2612674531",
+        "Electric": "9116276288",
+        "Electric Bump": "106390294846250",
+        "Fan": "105043182516344",
+        "Fence Break": "9116762804",
+        "Fire": "158853971",
+        "Food Break": "9120113047",
+        "Furniture Break 1": "114293452219807",
+        "Furniture Break 2": "135625689833378",
+        "Metal Break": "9120957636",
+        "Normal Break": "9117624545",
+        "Turn On": "9125838810",
+        "Plank Break": "9117447650",
+        "Plastic Break": "9117458686",
+        "Puddle Splash": "9120588904",
+        "Scan": "9126076151",
+        "Glass Breaking": "2978605361",
+        "Smoke": "7959736677",
+        "Tick": "9119713951",
+        "Water Splash": "2846734837",
+        "Wood Break": "9120801707",
+        "Paper": [
+            "9114387844",
+            "2217513097",
+            "9117231552",
+            "5168055564"
+        ]
+        },
+        "Explosion": {
+        "Big": "4418405082",
+        "Medium": "101767123218902",
+        "Small": "3802269741",
+        "Fire": "2555283290"
+        },
+        "UI Sounds": {
+        "Hover 1": "85046400506154",
+        "Hover 2": "83685623871840",
+        "Notify": "18133558673",
+        "Overlay": "9114248536",
+        "Unlock": "18148606467"
+        },
+        "Main Menu": {
+        "Drop": "9125510673",
+        "Locker": "212719873",
+        "Open Crate": "5762205952",
+        "Queue": "111174530730534",
+        "Radio Switch": "395098124",
+        "Vault Door": "6892501019",
+        "Vault Door2": "7757282096"
+        },
+        "Death": "8528099197",
+        "Ping Sounds": [
+        "9126072038",
+        "9126071452"
+        ],
+        "Less Scary Booms": [
+        "9039274867",
+        "9039276122"
+        ],
+        "Capture": [
+        "9065073444",
+        "8392900771"
+        ],
+        "Defuser Planted": "9048828381",
+        "Scary Booms": [
+        "9039270796",
+        "1837831828",
+        "1837831711",
+        "1837831700",
+        "1837832135",
+        "1837831763",
+        "1837831964",
+        "1837831982",
+        "1837831986",
+        "1837831782",
+        "1837832015",
+        "1843027503",
+        "9039277974"
+        ],
+        "Police Radio": [
+        "9117769457",
+        "9117761471",
+        "9117761777"
+        ]
+    },
+    "UI ": {
+        "Icons": {
+           "Weapons": {
+                "Primaries": {
+                    "Assault Rifles": {
+                        "AK-12": {
+                            "Silhouette": "71965592822117",
+                            "Photo": "117191587917011"
+                        },
+                        "M4": {
+                            "Silhouette": "87030448114840",
+                            "Photo": "115851152712423"
+                        },
+                        "AUG": {
+                            "Silhouette": "102480534399825",
+                            "Photo": "110048878198119"
+                        },
+                        "L85A2": {
+                            "Silhouette": "74925023278217",
+                            "Photo": "123974008343960"
+                        },
+                        "Famas": {
+                            "Silhouette": "90389693859880",
+                            "Photo": "84749624399475"
+                        },
+                        "SCAR-H": {
+                            "Silhouette": "108297654942770",
+                            "Photo": "116716081596869"
+                        },
+                        "M16": {
+                            "Silhouette": "131129459114887",
+                            "Photo": "128254786867591"
+                        },
+                        "G36": {
+                            "Silhouette": "120301050486501",
+                            "Photo": "91180405433928"
+                        }
+                    },
+                    "Submachine Guns": {
+                        "Vector": {
+                            "Silhouette": "114168756778627",
+                            "Photo": "102649692737180"
+                        },
+                        "MP5": {
+                            "Silhouette": "91938214965312",
+                            "Photo": "123366916296210"
+                        },
+                        "P90": {
+                            "Silhouette": "83854554463491",
+                            "Photo": "94387040709156"
+                        },
+                        "MP7": {
+                            "Silhouette": "77696438976549",
+                            "Photo": "114944421236534"
+                        }
+                    },
+                    "Shotguns": {
+                        "SPAS-12": {
+                            "Silhouette": "139492195102590",
+                            "Photo": "74206358538049"
+                        },
+                        "AA-12": {
+                            "Silhouette": "100776359921240",
+                            "Photo": "110518968071603"
+                        },
+                        "M590": {
+                            "Silhouette": "111827671773875",
+                            "Photo": "105225181277868"
+                        },
+                        "CAL12": {
+                            "Silhouette": "71838949737352",
+                            "Photo": "128521605924987"
+                        }
+                    },
+                    "Sniper Rifles": {
+                        "AW50": {
+                            "Silhouette": "133192644378434",
+                            "Photo": "129114729031596"
+                        },
+                        "M24": {
+                            "Silhouette": "78888048979941",
+                            "Photo": "81159529722886"
+                        },
+                        "Harrow M82": {
+                            "Silhouette": "117896735926778",
+                            "Photo": "132849568708313"
+                        }
+                    },
+                    "Marksman Rifles": {
+                        "M14": {
+                            "Silhouette": "72287739415304",
+                            "Photo": "128601103111313"
+                        },
+                        "L1A1": {
+                            "Silhouette": "101416689761081",
+                            "Photo": "98483476263107"
+                        }
+                    },
+                    "LMGs": {
+                        "M249": {
+                            "Silhouette": "74571680978089",
+                            "Photo": "81159529722886"
+                        },
+                        "M60": {
+                            "Silhouette": "115891696670024",
+                            "Photo": "119229563461450"
+                        }
+                    },
+                    "Launchers": {
+                        "HK69": {
+                            "Silhouette": "138660235919299",
+                            "Photo": "104046912861675"
+                        },
+                        "M-32": {
+                            "Silhouette": "115665996381259",
+                            "Photo": "131414597222665"
+                        }
+                    }
+                },
+                "Secondaries": {
+                    "Pistols": {
+                        "Beretta": {
+                            "Silhouette": "77101886825929",
+                            "Photo": "111417969273351"
+                        },
+                        "Colt": {
+                            "Silhouette": "101760446411261",
+                            "Photo": "77738094307087"
+                        },
+                        "G7": {
+                            "Silhouette": "134220952369969",
+                            "Photo": "123505339462145"
+                        },
+                        "Deagle": {
+                            "Silhouette": "125499169273046",
+                            "Photo": "130545828003239"
+                        },
+                        "FN-57": {
+                            "Silhouette": "133982610374177",
+                            "Photo": ""
+                        },
+                        "PT24": {
+                            "Silhouette": "138239071216286",
+                            "Photo": "105372021981100"
+                        }
+                    },
+                    "Revolvers": {
+                        "Anaconda": {
+                            "Silhouette": "96641926417822",
+                            "Photo": "112865229061721"
+                        },
+                        "T-Judge": {
+                            "Silhouette": "87355846558559",
+                            "Photo": "86593190360389"
+                        },
+                        "RSh-12": {
+                            "Silhouette": "87856611212258",
+                            "Photo": "104296621768343"
+                        },
+                        "Reaper": {
+                            "Silhouette": "129131472376157",
+                            "Photo": "95059639123629"
+                        }
+                    },
+                    "Machine Pistols": {
+                        "CZ75": {
+                            "Silhouette": "109400075825406",
+                            "Photo": "78172623198185"
+                        },
+                        "Skorpion": {
+                            "Silhouette": "101055672471522",
+                            "Photo": "101055672471522"
+                        },
+                        "Mac-11": {
+                            "Silhouette": "107902948854199",
+                            "Photo": "107902948854199"
+                        }
+                    },
+                    "Shotguns": {
+                        "Super Shorty": {
+                            "Silhouette": "110533554600008",
+                            "Photo": "91694408074417"
+                        }
+                    }
+                },
+
+                "Shields": {
+                    "Riot Shield": {
+                        "Silhouette": "93593759444748",
+                        "Photo": "101911010829083"
+                    },
+                    "Ballistic Shield": {
+                        "Silhouette": "82260034237211",
+                        "Photo": "70830913668826"
+                    }
+                }
+            },
+
+            "Utility": {
+                "EID": {
+                    "Silhouette": "71389713756423",
+                    "Photo": "71579134480254"
+                },
+                "Adrenal Surge": {
+                    "Silhouette": "132586978915618",
+                    "Photo": "125135664191180"
+                },
+                "Ammo Box": {
+                    "Silhouette": "102582737597420",
+                    "Photo": "139974976118399"
+                },
+                "Armor Plate": {
+                    "Silhouette": "127685206635992",
+                    "Photo": "75625689494645"
+                },
+                "Breaching Hammer": {
+                    "Silhouette": "86991412364317",
+                    "Photo": "108910602666048"
+                },
+                "Crowbar": {
+                    "Silhouette": "110851250885171",
+                    "Photo": "106382030725744"
+                },
+                "Grappling Hook": {
+                    "Silhouette": "89373239515521",
+                    "Photo": "88240098279970"
+                },
+                "Hacking Tool": {
+                    "Silhouette": "93083400174333",
+                    "Photo": "124847429072052"
+                },
+                "Metal Barricade": {
+                    "Silhouette": "101404577415142",
+                    "Photo": "88287671244308"
+                },
+                "Military Knife": {
+                    "Silhouette": "92257539190491",
+                    "Photo": "135638942973933"
+                },
+                "Reinforcement": {
+                    "Silhouette": "102280925823066",
+                    "Photo": "131860439119159"
+                },
+                "Wooden Barricade": {
+                    "Silhouette": "120240125082624",
+                    "Photo": "93421707772928"
+                },
+                "Thermal Goggles": {
+                    "Silhouette": "75860557025813",
+                    "Photo": "130575562099777"
+                },
+                "VEIL-9": {
+                    "Silhouette": "113599628592273",
+                    "Photo": "92974269741566"
+                }
+            },
+
+            "Gadgets": {
+                "Barbed Wire": {
+                    "Silhouette": "77385693201523",
+                    "Photo": "128513492617920"
+                },
+                "Breach Charge": {
+                    "Silhouette": "107017238142850",
+                    "Photo": "84498836181606"
+                },
+                "Bulletproof Camera": {
+                    "Silhouette": "125200694361348",
+                    "Photo": "91235086415592"
+                },
+                "Claymore": {
+                    "Silhouette": "102628388684642",
+                    "Photo": "128068448229983"
+                },
+                "Deployable Shield": {
+                    "Silhouette": "125536230549191",
+                    "Photo": "89830643522740"
+                },
+                "EMP Grenade": {
+                    "Silhouette": "135436540827900",
+                    "Photo": "108313165168310"
+                },
+                "Frag Grenade": {
+                    "Silhouette": "131815781823391",
+                    "Photo": "97379391025395"
+                },
+                "Hard Breacher": {
+                    "Silhouette": "119785964628667",
+                    "Photo": "105033965389936"
+                },
+                "Impact Grenade": {
+                    "Silhouette": "83364515674405",
+                    "Photo": "82566182556978"
+                },
+                "Sticky Camera": {
+                    "Silhouette": "107359883904453",
+                    "Photo": "97559360191649"
+                },
+                "Shock Battery": {
+                    "Silhouette": "91291250059336",
+                    "Photo": "129045443792853"
+                },
+                "Incendiary Grenade": {
+                    "Silhouette": "108731907746132",
+                    "Photo": "75242798725556"
+                },
+                "Proximity Alarm": {
+                    "Silhouette": "76330539011115",
+                    "Photo": "112220174424845"
+                },
+                "RC Drone": {
+                    "Silhouette": "95428092249797",
+                    "Photo": "109948617896101"
+                },
+                "Remote C4": {
+                    "Silhouette": "131938694361268",
+                    "Photo": "120215191065838"
+                },
+                "Signal Jammer": {
+                    "Silhouette": "92127801205903",
+                    "Photo": "106841237314886"
+                },
+                "Smoke Grenade": {
+                    "Silhouette": "121319566543679",
+                    "Photo": "132415942925232"
+                },
+                "Stun Grenade": {
+                    "Silhouette": "98141931967205",
+                    "Photo": "91607549185881"
+                },
+                "Thermite Charge": {
+                    "Silhouette": "130204034174754",
+                    "Photo": "88733904259655"
+                },
+                "Stim Pistol": {
+                    "Silhouette": "86284584094263",
+                    "Photo": "88470170410081"
+                },
+                "Toxic Charge": {
+                    "Silhouette": "94193535674650",
+                    "Photo": "71272193898233"
+                },
+                "Blowtorch": {
+                    "Silhouette": "128562111939843",
+                    "Photo": "108670232717953"
+                },
+                "Needle Mine": {
+                    "Silhouette": "111112827848120",
+                    "Photo": "128524907467225"
+                }
+            },
+            "Attire":{
+                "Hats":{
+                    "Red Beret":{
+                        "Silhouette":"107036588517549",
+                        "Photo":"79951577178591"
+                    },
+                    "Scout Cap":{
+                        "Silhouette":"131777383788671",
+                        "Photo":"75998052840752"
+                    },
+                    "Military Hat":{
+                        "Silhouette":"74217514370568",
+                        "Photo":"134505974491925"
+                    },
+                    "Headphones":{
+                        "Silhouette":"131965769583796",
+                        "Photo":"86558306432404"
+                    },
+                    "Specter":{
+                        "Silhouette":"121042391933750",
+                        "Photo":"120586546185692"
+                    },
+                    "Gas Mask":{
+                        "Silhouette":"102021562921795",
+                        "Photo":"108918131455027"
+                    },
+                    "Neckerchief":{
+                        "Silhouette":"109217107396937",
+                        "Photo":"90844467017293"
+                    },
+                    "SWAT Helmet":{
+                        "Silhouette":"138647161941722",
+                        "Photo":"75454604086220"
+                    },
+                    "Aviators":{
+                        "Silhouette":"87447767685138",
+                        "Photo":"135023086652713"
+                    },
+                    "Secret Service":{
+                        "Silhouette":"140174898033818",
+                        "Photo":"126485655955626"
+                    },
+                    "Ski Mask":{
+                        "Silhouette":"73810671401604",
+                        "Photo":"86634294390285"
+                    },
+                    "Ghillie Hood":{
+                        "Silhouette":"112780397503317",
+                        "Photo":"106992151650273"
+                    },
+                    "Pumpkin Head":{
+                        "Silhouette":"104547370188554",
+                        "Photo":"94130472728486"
+                    },
+                    "Witch Hat":{
+                        "Silhouette":"139200388749138",
+                        "Photo":"133866762864492"
+                    },
+                    "Slasher":{
+                        "Silhouette":"133240271215677",
+                        "Photo":"79615199267851"
+                    },
+                    "Killer Clown":{
+                        "Silhouette":"104765560531529",
+                        "Photo":"93702069422243"
+                    },
+                    "Ghost":{
+                        "Silhouette":"132567248244127",
+                        "Photo":"76014258156761"
+                    },
+                    "Snowman Head":{
+                        "Silhouette":"119033370908605",
+                        "Photo":"104645180721611"
+                    },
+                    "Top Hat":{
+                        "Silhouette":"71878418019447",
+                        "Photo":"105330161304751"
+                    },
+                    "Beanie":{
+                        "Silhouette":"103278864971524",
+                        "Photo":"97486020166023"
+                    },
+                    "Santa":{
+                        "Silhouette":"86694247754316",
+                        "Photo":"99377587413276"
+                    },
+                    "Raindeer Headband":{
+                        "Silhouette":"105692027802383",
+                        "Photo":"124235438685359"
+                    },
+                    "Ski Goggles":{
+                        "Silhouette":"124429873569595",
+                        "Photo":"123348415866645"
+                    },
+                    "Nutcracker":{
+                        "Silhouette":"125882378463642",
+                        "Photo":"90283117484050"
+                    },
+                    "Commando":{
+                        "Silhouette":"132560269110901",
+                        "Photo":"103012250195472"
+                    },
+                    "Field Helmet":{
+                        "Silhouette":"78274384135607",
+                        "Photo":"97710663820445"
+                    },
+                    "Robber":{
+                        "Silhouette":"72369907664782",
+                        "Photo":"90255560643774"
+                    },
+                    "Goggles":{
+                        "Silhouette":"117968050078962",
+                        "Photo":"81768272794599"
+                    },
+                    "French Hat":{
+                        "Silhouette":"89594120694516",
+                        "Photo":"134557947335331"
+                    },
+                    "Cowl":{
+                        "Silhouette":"73231829935294",
+                        "Photo":"132123020513036"
+                    },
+                    "Farmer Hat":{
+                        "Silhouette":"120257742283321",
+                        "Photo":"88965910790207"
+                    },
+                    "Ballistic Helmet":{
+                        "Silhouette":"130086595120378",
+                        "Photo":"126048228780249"
+                    },
+                    "Red Bandana":{
+                        "Silhouette":"94190968989256",
+                        "Photo":"116616430510134"
+                    },
+                    "Shutter Shades":{
+                        "Silhouette":"129714417454304",
+                        "Photo":"75560247138388"
+                    },
+                    "Maska-1":{
+                        "Silhouette":"116593119345472",
+                        "Photo":"91109228621359"
+                    },
+                    "Bomb Helmet":{
+                        "Silhouette":"130289452007063",
+                        "Photo":"77360019169580"
+                    },
+                    "Cowboy Hat":{
+                        "Silhouette":"115432711346621",
+                        "Photo":"111141531630783"
+                    },
+                    "Rocker Mohawk":{
+                        "Silhouette":"96146464524238",
+                        "Photo":"110085224879773"
+                    },
+                    "TV Head":{
+                        "Silhouette":"118260516090435",
+                        "Photo":"112373733551635"
+                    }
+                },
+                "Uniforms":{
+                    "Military Camo":{
+                        "Silhouette":"115861529651011",
+                        "Photo":"129369900683964"
+                    },
+                    "White Camo":{
+                        "Silhouette":"70979930067928",
+                        "Photo":"74373998541949"
+                    },
+                    "Special Police":{
+                        "Silhouette":"129336202990920",
+                        "Photo":"99880586845069"
+                    },
+                    "Specter":{
+                        "Silhouette":"121564088589143",
+                        "Photo":"80382379891890"
+                    },
+                    "Secret Service":{
+                        "Silhouette":"121329102510132",
+                        "Photo":"74103628655244"
+                    },
+                    "Pilot":{
+                        "Silhouette":"140708363573224",
+                        "Photo":"125932193310005"
+                    },
+                    "Sand Camo":{
+                        "Silhouette":"118847085230631",
+                        "Photo":"74837292102236"
+                    },
+                    "Ghillie Suit":{
+                        "Silhouette":"119236922763049",
+                        "Photo":"95028495445080"
+                    },
+                    "Reaverlord":{
+                        "Silhouette":"133975128317109",
+                        "Photo":"82573052229550"
+                    },
+                    "Rugged":{
+                        "Silhouette":"98157497559334",
+                        "Photo":"110223634822203"
+                    },
+                    "Skeleton":{
+                        "Silhouette":"111680922743394",
+                        "Photo":"91146884314583"
+                    },
+                    "Nutcracker":{
+                        "Silhouette":"101534517077365",
+                        "Photo":"76024157593454"
+                    },
+                    "Parka":{
+                        "Silhouette":"118250689485614",
+                        "Photo":"126863677020412"
+                    },
+                    "Santa":{
+                        "Silhouette":"74288947755047",
+                        "Photo":"92521578819812"
+                    },
+                    "Fancy Bowtie":{
+                        "Silhouette":"128701878448225",
+                        "Photo":"115536983884463"
+                    },
+                    "Tactical Canadian":{
+                        "Silhouette":"80426189586908",
+                        "Photo":"84711168268855"
+                    },
+                    "Commando":{
+                        "Silhouette":"83335083467590",
+                        "Photo":"79266380246600"
+                    },
+                    "Field":{
+                        "Silhouette":"117025254725135",
+                        "Photo":"115450632772254"
+                    },
+                    "Robber":{
+                        "Silhouette":"127215730298582",
+                        "Photo":"102469700988018"
+                    },
+                    "Rescue":{
+                        "Silhouette":"121605181671897",
+                        "Photo":"128453347312713"
+                    },
+                    "Farmer":{
+                        "Silhouette":"113330472748146",
+                        "Photo":"134570659542190"
+                    },
+                    "Heavy Gorka":{
+                        "Silhouette":"95229621098233",
+                        "Photo":"103309739119852"
+                    },
+                    "Bomb Suit":{
+                        "Silhouette":"101614680674587",
+                        "Photo":"104856810470962"
+                    },
+                    "Salon":{
+                        "Silhouette":"85396271188751",
+                        "Photo":"83226542748551"
+                    },
+                    "Rocker":{
+                        "Silhouette":"71113077285719",
+                        "Photo":"139052009029076"
+                    }
+                }
+            },
+            "Misc UI":{
+                "Ranked":{
+                    "Ranks":{
+                        "Unranked":"80667884681527",
+                        "Ranked One":"124157476380139",
+                        "Ranked Two":"119344750686239",
+                        "Ranked Three":"91165952227851",
+                        "Ranked Champion":"127175087913396"
+                    },
+                    "Ranked Charms":{
+                        "Season 1 Crosshair":{
+                            "Bronze":{
+                                "Silhouette":"107376479347713",
+                                "Photo":"81112710508269"
+                            },
+                            "Silver":{
+                                "Silhouette":"107376479347713",
+                                "Photo":"109286213343666"
+                            },
+                            "Gold":{
+                                "Silhouette":"107376479347713",
+                                "Photo":"101047487027223"
+                            },
+                            "Platinum":{
+                                "Silhouette":"107376479347713",
+                                "Photo":"87140814149469"
+                            },
+                            "Diamond":{
+                                "Silhouette":"107376479347713",
+                                "Photo":"117080751692809"
+                            },
+                            "Champion":{
+                                "Silhouette":"107376479347713",
+                                "Photo":"104698127048073"
+                            }
+                        },
+                        "Season 2 Claw":{
+                            "Bronze":{                            
+                                "Photo":"121004530778607"
+                            },
+                            "Silver":{                               
+                                "Photo":"79734174137868"
+                            },
+                            "Gold":{                                
+                                "Photo":"125939232544256"
+                            },
+                            "Platinum":{                                
+                                "Photo":"115924870446593"
+                            },
+                            "Diamond":{                                
+                                "Photo":"130860991606254"
+                            },
+                            "Champion":{                    
+                                "Photo":"116780778076007"
+                            }
+                        },
+                        "Season 3 Horse":{
+                            "Bronze":{                            
+                                "Photo":"131117269561998"
+                            },
+                            "Silver":{                               
+                                "Photo":"83749544733486"
+                            },
+                            "Gold":{                                
+                                "Photo":"132247059708268"
+                            },
+                            "Platinum":{                                
+                                "Photo":"90303935083428"
+                            },
+                            "Diamond":{                                
+                                "Photo":"75096248276953"
+                            },
+                            "Champion":{                    
+                                "Photo":"118145371298416"
+                            }
+                        }
+                    }
+                },
+                "Currency":"78071727957248"
+            }
+        }
+    }
+}
+
