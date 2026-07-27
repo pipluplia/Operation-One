@@ -1,5 +1,6 @@
 {
     "Sounds":{
+        "Kill Sound":"110721696285905",
         "Primaries": {
             "Assault Rifles": {
                 "AK-12": {
@@ -209,7 +210,6 @@
             "Ballistic Shield": {}
         }
     },
-    "Kill Sound":"110721696285905",
     "Utility":{
         "Placeable":{
             "Barbed Wire Rustle":"5127550279",
